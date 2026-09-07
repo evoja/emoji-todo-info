@@ -48,7 +48,7 @@ That's the whole syntax. The app picks the list up automatically the next time t
 2. Hover over the emoji of the item you want to change.
 3. Pick a new status from the picker.
 
-<img src="Screenshot_panel_selection.png" alt="Status picker in the Emoji Todo panel" width="420">
+<img src="panel_selection.png" alt="Status picker in the Emoji Todo panel" width="420">
 
 The description updates immediately. If someone edited the description while your panel was open, the app tells you the content is *out of date* and offers to reload rather than overwriting their change.
 
